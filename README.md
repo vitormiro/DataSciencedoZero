@@ -4,3 +4,4 @@ Neste repositório estou disponibilizando os códigos para estudo do livro "Data
 
 [Capítulo 1 - Introdução](/DSfromScratch_cap1.ipynb)
 
+[Capítulo 2 - Curso rápido de Python](/DSfromScratch_cap2.ipynb)
